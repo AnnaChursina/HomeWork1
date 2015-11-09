@@ -1,0 +1,5 @@
+e:\мои документы\visual studio 2015\Projects\Cat\Model\bin\Debug\Model.dll
+e:\мои документы\visual studio 2015\Projects\Cat\Model\bin\Debug\Model.pdb
+e:\мои документы\visual studio 2015\Projects\Cat\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+e:\мои документы\visual studio 2015\Projects\Cat\Model\obj\Debug\Model.dll
+e:\мои документы\visual studio 2015\Projects\Cat\Model\obj\Debug\Model.pdb

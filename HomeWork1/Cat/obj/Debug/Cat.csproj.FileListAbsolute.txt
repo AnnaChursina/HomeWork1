@@ -1,0 +1,2 @@
+e:\мои документы\visual studio 2015\Projects\Cat\Cat\bin\Debug\Cat.exe.config
+e:\мои документы\visual studio 2015\Projects\Cat\Cat\obj\Debug\Cat.csprojResolveAssemblyReference.cache

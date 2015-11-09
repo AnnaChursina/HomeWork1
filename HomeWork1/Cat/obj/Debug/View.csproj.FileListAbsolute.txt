@@ -1,0 +1,2 @@
+E:\Мои документы\Visual Studio 2015\Projects\Cat\Cat\bin\Debug\Cat.exe.config
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Cat\bin\Debug\Cat.exe.config
