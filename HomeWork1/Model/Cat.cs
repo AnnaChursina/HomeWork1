@@ -16,8 +16,7 @@ namespace Model
             get { return _health >= 5 ? CatColor.HealthyColor : CatColor.SickColor; }
         }
 
-        public CatColor CatColor { get; } = new CatColor(); // 1-й класс, 2-й - имя, 3-й - сщзд-е новог объекта для св-ва CatColor 
-
+        public CatColor CatColor { get; } = new CatColor(); 
        public Cat(int age) // конструктор
         {
             this._age = age;
@@ -41,13 +40,11 @@ namespace Model
                 }
             }
         }
-
         public int Feed()
         {
             _health++;
             return _health;
         }
-
         public int Punish()
         {
             _health--;

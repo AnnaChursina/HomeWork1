@@ -8,7 +8,7 @@ namespace Model
 {
     public class CatColor
     {
-        public string SickColor { get; set; } = "green";//все публичные поля с заглавной
-        public string HealthyColor { get; set; } = "white"; //inline inicial-n
+        public string SickColor { get; set; } = "green";
+        public string HealthyColor { get; set; } = "white"; 
     }
 }

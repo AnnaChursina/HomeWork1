@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Model;
 
 namespace View
 {
@@ -10,9 +11,7 @@ namespace View
     {
         static void Main(string[] args)
         {
-           // string name, color, c, h;
             int age, figure;
-
             try
             {
                 Console.WriteLine("Введите возраст кошки не больше 20");
@@ -21,7 +20,7 @@ namespace View
             catch (FormatException)
             {
                 Console.WriteLine("Кошки столько не живут, введите заново");
-                return;//выход из Мэйн - завершение работы прилож.
+                return;
             }
 
             Cat cat1 = new Cat(age); //вызов конструктора
