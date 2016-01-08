@@ -3,3 +3,8 @@ e:\мои документы\visual studio 2015\Projects\Cat\Model\bin\Debug\Mod
 e:\мои документы\visual studio 2015\Projects\Cat\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 e:\мои документы\visual studio 2015\Projects\Cat\Model\obj\Debug\Model.dll
 e:\мои документы\visual studio 2015\Projects\Cat\Model\obj\Debug\Model.pdb
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Model\bin\Debug\Model.dll
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Model\bin\Debug\Model.pdb
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Model\obj\Debug\Model.dll
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Model\obj\Debug\Model.pdb

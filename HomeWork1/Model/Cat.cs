@@ -9,8 +9,8 @@ namespace Model
     public class Cat
     {
         private string _name;
-        private int _age;
-        private int _health = 3;
+        private readonly int _age;
+        private int _health = 5;
         public string CurrentColor
         {
             get { return _health >= 5 ? CatColor.HealthyColor : CatColor.SickColor; }
@@ -21,7 +21,7 @@ namespace Model
         {
             this._age = age;
         }
-        public int Age
+        public  int Age
         {
             get { return _age; }
         }

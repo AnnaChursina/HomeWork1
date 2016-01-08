@@ -1,2 +1,9 @@
 E:\Мои документы\Visual Studio 2015\Projects\Cat\Cat\bin\Debug\Cat.exe.config
 E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Cat\bin\Debug\Cat.exe.config
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Cat\bin\Debug\Cat.exe
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Cat\bin\Debug\Cat.pdb
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Cat\bin\Debug\Model.dll
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Cat\bin\Debug\Model.pdb
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Cat\obj\Debug\View.csprojResolveAssemblyReference.cache
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Cat\obj\Debug\Cat.exe
+E:\Учеба\Программисты\ForGH\HomeWork1\HomeWork1\Cat\obj\Debug\Cat.pdb

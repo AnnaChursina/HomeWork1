@@ -31,10 +31,10 @@ namespace View
                 Console.WriteLine("Cat's color is " + cat1.CurrentColor);
                 Console.WriteLine();
                 Console.WriteLine("Menu");
-                Console.WriteLine("0. Set name");
-                Console.WriteLine("1. Change a color");
-                Console.WriteLine("2. Punish");
-                Console.WriteLine("3. Feed");
+                Console.WriteLine("1. Set name");
+                Console.WriteLine("2. Change a color");
+                Console.WriteLine("3. Punish");
+                Console.WriteLine("4. Feed");
                 Console.WriteLine();
                 Console.WriteLine("Type a needed figure without dot and push Enter");
                 figure = Convert.ToInt32(Console.ReadLine());
